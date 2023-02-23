@@ -6,7 +6,7 @@ I am a biochemist and a Junior Data Analyst and I like to make the most of my te
 #### Childhood Allergies
 
 <a href="https://github.com/joanafloresc/Childhood_allergies">
-<img src="images/ca.PNG" height="300"/> <img src="images/cb.PNG" height="300"/> 
+<img src="images/ca.PNG" height="250"/> <img src="images/cb.PNG" height="250"/> 
 </a>
 <p>&nbsp;</p> 
 <p></p> 
