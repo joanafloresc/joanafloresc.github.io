@@ -5,20 +5,36 @@ I am a biochemist and a Junior Data Analyst and I like to make the most of my te
 
 #### Childhood Allergies
 
-<script type="text/javascript" 
-  src="https://public.tableau.com/javascripts/api/tableau-2.min.js">
-</script>
+<!DOCTYPE html>
+<html>
 
-<div id="vizContainer"></div>
+<head>
+    <title>Basic Embed</title>
 
-function initViz() {
-    var containerDiv = document.getElementById("vizContainer"),
-    url = "https://public.tableau.com/views/Childhood_allergies/4?:language=pt-BR&:display_count=n&:origin=viz_share_link";
+    <script type="text/javascript"
+	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript">
+        function initViz() {
+            var containerDiv = document.getElementById("vizContainer"),
+                url = "http://public.tableau.com/views/RegionalSampleWorkbook/Storms",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
 
-    var viz = new tableau.Viz(containerDiv, url);
-}
+            var viz = new tableau.Viz(containerDiv, url, options);
+            // Create a viz object and embed it in the container div.
+        }
+    </script>
+</head>
 
-initViz();
+<body onload="initViz();">
+    <div id="vizContainer" style="width:800px; height:700px;"></div>
+</body>
+
+</html>
 
 <a href="https://github.com/joanafloresc/Childhood_allergies">
 <img src="images/ca.PNG" height="300"/> <img src="images/cb.PNG" height="300"/> 
