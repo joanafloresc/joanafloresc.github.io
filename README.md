@@ -5,15 +5,6 @@ I am a biochemist and a Junior Data Analyst and I like to make the most of my te
 
 #### Childhood Allergies
 
-<html>
-<head>
-
-    <title>Add Title Here</title>
-
-    <script type="text/javascript"
-	    src="[https://public.tableau.com/javascripts/api/tableau-2.min.js](https://public.tableau.com/views/Childhood_allergies/4?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)"></script>
-    <script type="text/javascript"></script>
-
 <a href="https://github.com/joanafloresc/Childhood_allergies">
 <img src="images/ca.PNG" height="300"/> <img src="images/cb.PNG" height="300"/> 
 </a>
