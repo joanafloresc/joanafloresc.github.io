@@ -5,7 +5,6 @@ I am a biochemist and a Junior Data Analyst and I like to make the most of my te
 
 #### Childhood Allergies
 
-<!DOCTYPE html>
 <html>
 
 <head>
