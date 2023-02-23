@@ -4,21 +4,21 @@ I am a biochemist and a Junior Data Analyst and I like to make the most of my te
 ## My projects  
   
 
-<img src="ca.png"
+<img src="ca.PNG"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 <p>
-    <img src="ca.png" width="220" height="240" />
+    <img src="ca.PNG" width="220" height="240" />
 </p>
   
 
-![Plot](ca.png)
+![Plot](ca.PNG)
   
 
-![Alt text](logo.png)
+![Alt text](logo.PNG)
   
-  
+
 (https://github.com/joanafloresc/Childhood_allergies)
 
 ### Childhood Allergies
