@@ -3,6 +3,10 @@ I am a biochemist and a Junior Data Analyst and I like to make the most of my te
 
 ## My projects  
 
+<img src="ca.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 
 ![Plot](ca.png)
 
