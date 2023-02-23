@@ -1,3 +1,5 @@
-theme: minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Joana Flores
 description: I am a biochemist and a Junior Data Analyst and I like to make the most of my technical background while doing data science projects.
