@@ -1,12 +1,15 @@
-Hello
+I am a biochemist and a Junior Data Analyst and I like to make the most of my technical background while doing data science projects.
+  
 
-this is a test~
+## My projects  
 
-My projects
-[Childhood Allergies](https://github.com/joanafloresc/Childhood_allergies)
 
-Sd
-sdasf
-sdfsdfg
-d
-gdg
+![Plot](logo.png)(https://github.com/joanafloresc/Childhood_allergies)
+
+### Childhood Allergies
+
+
+
+
+[Linkedin](https://www.linkedin.com/in/joanafloresc/)
+[GitHub](https://github.com/joanafloresc)
